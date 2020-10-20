@@ -48,12 +48,7 @@ local_business_type = "EntertainmentBusiness"
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "商号	株式会社Synergy
-設立年月	2018年（平成30年）11月
-資本金	5,000,000円
-所在地	〒104-0041 東京都中央区新富1-8-9 THE GATE GINZA EASTビル9F
-代表取締役	馮凱/石培
-取引銀行	三菱UFJ銀行"
+description = "商号	株式会社Synergy 設立年月	2018年（平成30年）11月 資本金	5,000,000円 所在地	〒104-0041 東京都中央区新富1-8-9 THE GATE GINZA EASTビル9F 代表取締役	馮凱/石培 取引銀行	三菱UFJ銀行"
 
 ############################
 ## Site Features
