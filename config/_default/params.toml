@@ -37,18 +37,23 @@ font_size = "L"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Person"
+site_type = "LocalBusiness"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
-local_business_type = ""
+local_business_type = "EntertainmentBusiness"
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "商号	株式会社Synergy
+設立年月	2018年（平成30年）11月
+資本金	5,000,000円
+所在地	〒104-0041 東京都中央区新富1-8-9 THE GATE GINZA EASTビル9F
+代表取締役	馮凱/石培
+取引銀行	三菱UFJ銀行"
 
 ############################
 ## Site Features
@@ -88,26 +93,26 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "xxxxxxx@mail.com"
-phone = "070 8405 xxxx"
+email = "info@synergy-info.co.jp"
+phone = "03-4500-8383"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Toyko", region = "CA", postcode = "1750000", country = "United States", country_code = "JP"}
+address = {street = "中央区新富1-8-9 ", city = "東京", region = "As", postcode = "〒104-0041", country = "Japan", country_code = "JP"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.672441", longitude = "139.774642"}
+coordinates = {latitude = "35.6725315", longitude = "139.7740894"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "THE GATE GINZA EASTビル9F"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "http://synergy-info.co.jp/company.html"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
