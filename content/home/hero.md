@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 120  # Order that this section will appear.
 
-title = "Academic Template"
+title = "採用情報"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+hero_media = "WeChat Image_20201021105420.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -20,8 +20,8 @@ hero_media = "hero-academic.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+   gradient_start = "#4bb4e3"
+   gradient_end = "#87CEFA"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -36,23 +36,35 @@ hero_media = "hero-academic.png"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+<table width="1224px"  border="1" align="center">
+          <tbody><tr>
+           <th width="20%" bgcolor="#cccccc">職種</th>
+           <td width="80%">システムエンジニア、プログラマー</td>
+         </tr>
+         <tr>
+           <th bgcolor="#cccccc">採用予定人数</th>
+           <td>若干名／随時</td>
+         </tr>
+         <tr>
+           <th bgcolor="#cccccc">仕事内容</th>
+           <td>経験を生かしてご活躍いただける案件、職場に配属となります
+ ・通信、保険、金融、製造などの業務システム構築経験者
+・マネージメント、リーダー経験者
+・プログラマー経験者（Java、C#、COBOL、VB.NET、SAP、他）</td>
+         </tr>
+         <tr>
+           <th bgcolor="#cccccc">主な勤務先</th>
+           <td>東京周辺</td>
+         </tr>
+         <tr>
+           <th bgcolor="#cccccc">待遇</th>
+           <td>20～80w(実力次第で優遇)</td>
+         </tr>
+         <tr>
+            <th bgcolor="#cccccc">福利厚生等</th>
+            <td>各種社会保険、その他補助</td>
+          </tr>
+        </tbody></table>

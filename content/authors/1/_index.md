@@ -1,11 +1,11 @@
 ---
 organizations:
-  - name: Synergy
+  - name: "user1"
     url: ""
 superuser: true
 authors:
-  - admin
-title: Synergy
+  - "user1"
+title: "user1"
 role: 
 bio: 
 # interests:
@@ -37,12 +37,7 @@ bio:
 #       institution: Massachusetts Institute of Technology
 #       year: 2008
 user_groups:
-  - 代表取締役
+  - 代表社員
 highlight_name: false
 email: ""
 ---
-* 技術者支援、技術者支援人材派遣業務
-* コンピュータ及びインターネット用ソフトウエア製品の企画・開発・販売業務
-* 中国向けオフショア及び中国IT技術者導入業務
-* インターネットを利用した各種情報提供サービス及び広告業務
-* 中国進出支援コンサルティング業務

@@ -4,27 +4,38 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "トップ"
+  url = "#slider"
+  weight = 1
+
+[[main]]
+  name = "会社紹介"
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "プロジェクト"
   url = "#projects"
   weight = 30
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 40
+
 
 [[main]]
-  name = "Contact"
+  name = "採用情報"
+  url = "#hero"
+  weight = 50
+
+[[main]]
+  name = "お問い合わせ"
   url = "#contact"
   weight = 60
 

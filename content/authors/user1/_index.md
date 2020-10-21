@@ -1,11 +1,11 @@
 ---
 organizations:
-  - name: Synergy
+  - name: "user1"
     url: ""
 superuser: true
 authors:
-  - admin
-title: Synergy
+  - "user1"
+title: "user1"
 role: 
 bio: 
 # interests:
@@ -37,7 +37,7 @@ bio:
 #       institution: Massachusetts Institute of Technology
 #       year: 2008
 user_groups:
-  - 代表取締役
+  - 代表社員
 highlight_name: false
 email: ""
 ---
